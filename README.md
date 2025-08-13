@@ -227,12 +227,4 @@ This project was built leveraging AI coding assistants for rapid development:
 
 This project is created as a portfolio demonstration piece. Feel free to use as inspiration for your own projects.
 
-## 🙋‍♂️ Questions?
-
-For questions about this implementation or ADmyBRAND AI Suite, contact:
-- Email: hello@admybrand.com
-- Website: Coming soon
-
----
-
 **Built with 💜 for modern marketers by ADmyBRAND**
