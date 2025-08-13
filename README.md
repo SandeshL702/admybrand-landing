@@ -5,7 +5,7 @@ A stunning, modern SaaS landing page built for the ADmyBRAND AI Suite marketing 
 ## 🚀 Live Demo
 
 - **Development**: http://localhost:3000 (when running locally)
-- **Production**: Deploy to Vercel for live demo
+- **Production**: Deploy to Vercel for live demo https://admybrand-landing-seven.vercel.app/
 
 ## ✨ Features
 
